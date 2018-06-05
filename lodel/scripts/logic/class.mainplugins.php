@@ -87,7 +87,7 @@ class MainPluginsLogic extends Logic
 				if($return) return false;
 				trigger_error('ERROR: the method '.$name[1].' does not exist', E_USER_ERROR);
 			}
-			return Plugins::get($name[0])->$name[1]($context, $error);
+			return Plugins::get($name[0])->{$name[1]}($context, $error);
 		}
 		else
 		{
