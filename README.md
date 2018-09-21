@@ -1,6 +1,8 @@
 Lodel 
 =====
 
+[![Build Status](https://travis-ci.com/3th0/lodel.svg?branch=master)](https://travis-ci.com/3th0/lodel)
+
 <img src="https://github.com/OpenEdition/lodel/blob/master/share/images/lodel_couleur.png" width="100">
 
 Logiciel d'édition Électronique
