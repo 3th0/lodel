@@ -6,3 +6,6 @@ php:
 
 install:
   - composer install --dev --prefer-dist
+
+script:
+  - make test
