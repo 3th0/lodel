@@ -9,6 +9,5 @@
         "roderik/pwgen-php": "^0.1.5",
         "stefangabos/zebra_image": "^2.2",
         "geshi/geshi": "^1.0",
-        "phpunit/phpunit": "@stable"
     }
 }

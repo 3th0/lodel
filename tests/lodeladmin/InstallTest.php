@@ -1,5 +1,6 @@
 <?php
-class InstallTest extends PHPUnit_Framework_TestCase
+require_once 'PHPUnit/Autoload.php';
+class InstallTest extends \PHPUnit\Framework\TestCase
 {
 	public function testGet()
   {
