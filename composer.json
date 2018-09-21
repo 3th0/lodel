@@ -3,6 +3,6 @@
        "classmap": ["lodel","lodeladmin"]
     },
     "require-dev": {
-        "phpunit/phpunit": "@stable"
+        "phpunit/phpunit": "5.0.*"
     }
 }
